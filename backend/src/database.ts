@@ -5,7 +5,7 @@ const oracledb = require('oracledb');
 const app = express();
 const port = 3000;
 
-// let user = 'c##junta_vecinal';
+let user = 'c##junta_vecinal';
 const password = '123';
 const connectString = 'localhost:1521/xe';
 
